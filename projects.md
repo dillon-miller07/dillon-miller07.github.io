@@ -1,9 +1,4 @@
 
----
-layout: page
-title: Projects
----
-
 # Projects
 
 Here are some of my Java projects. Click the links to view the code on GitHub.
