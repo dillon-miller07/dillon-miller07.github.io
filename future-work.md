@@ -4,7 +4,7 @@ Here are projects I plan to build:
 
 - Personal finance tracker
 - Mobile app
-- Game development
+- Game development 
 
 I am currently learning:
 - Java
