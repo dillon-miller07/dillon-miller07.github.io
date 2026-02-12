@@ -1,8 +1,8 @@
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
 title: Dillon Miller
-description: My GitHub Pages Portfolio
+description: My Portfolio
 header_pages:
   - projects.md
   - future-work.md
