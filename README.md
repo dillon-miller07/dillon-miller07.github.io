@@ -1,5 +1,15 @@
-# dillon-miller07.github.io
-GitHub.io portfolio website
+# Hi, I'm Dillon 
 
-## Sub Section
-Stuff
+Welcome to my personal GitHub Pages website!
+
+## About Me
+
+I am a student at UW Eau Claire majoring in Computer Science.
+
+---
+
+## Navigation
+
+- [Projects](projects)
+- [Future Work](future-work)
+- [Contact Me](contact)
