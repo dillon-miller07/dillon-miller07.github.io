@@ -18,5 +18,5 @@ This project visualizes the Mandelbrot set, a famous mathematical fractal create
 The result is a detailed, self-similar pattern that shows how a simple equation can create complex and beautiful designs.
 
 [View Project](https://github.com/dillon-miller07/mandelbrot-project)
-![Mandelbrot Set](/assets/mandelbrot.png)<img width="800" height="800" alt="mandelbrot" src="https://github.com/user-attachments/assets/8f5aa9b7-308d-4647-9bfc-90386a622fdc" />
+<img width="200" height="200" alt="mandelbrot" src="https://github.com/user-attachments/assets/8f5aa9b7-308d-4647-9bfc-90386a622fdc" />
 
