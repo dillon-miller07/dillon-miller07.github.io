@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub Pages website!
 
-<img width="200" height="200" alt="dillonmiller" src="[https://![Uploading EI9A8658.jpg…]()/user-attachments/assets/8f5aa9b7-308d-4647-9bfc-90386a622fdc](https://github.com/user-attachments/assets/995cb281-0e3b-462e-8032-a367cabf43c0)" />
+<img width="200" height="200" alt="dillonmiller" src="![EI9A8658 (1)](https://github.com/user-attachments/assets/359e4ee2-7791-4d28-b839-48d29b7a3fe5)"
 
 ## About Me
 
