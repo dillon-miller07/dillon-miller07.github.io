@@ -13,7 +13,7 @@ This project is a Java-based graphing calculator that allows users to create and
 [View Project](https://github.com/dillon-miller07/graphing-calculator-project)
 
 ## Project 2 – Mandelbrot Image
-This project visualizes the Mandelbrot set, a famous mathematical fractal created by repeatedly applying the equation 𝑓(𝑧)=z^2+𝑐 using complex numbers. For each point on the screen, the program checks whether the values stay bounded or grow toward infinity. Points that stay bounded form the Mandelbrot set, and the others are colored based on how quickly they escape.
+This project visualizes the Mandelbrot set, a famous mathematical fractal created by repeatedly applying an equation using complex numbers. For each point on the screen, the program checks whether the values stay bounded or grow toward infinity. Points that stay bounded form the Mandelbrot set, and the others are colored based on how quickly they escape.
 
 The result is a detailed, self-similar pattern that shows how a simple equation can create complex and beautiful designs.
 
