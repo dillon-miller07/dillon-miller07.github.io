@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub Pages website!
 
-<img width="200" height="200" alt="mandelbrot" src="https://![Uploading EI9A8658.jpg…]()/user-attachments/assets/8f5aa9b7-308d-4647-9bfc-90386a622fdc" />
+<img width="200" height="200" alt="dillonmiller" src="[https://![Uploading EI9A8658.jpg…]()/user-attachments/assets/8f5aa9b7-308d-4647-9bfc-90386a622fdc](https://github.com/user-attachments/assets/995cb281-0e3b-462e-8032-a367cabf43c0)" />
 
 ## About Me
 
