@@ -1,8 +1,15 @@
-# Hi, I'm Dillon 
+<div style="text-align: center;">
 
-Welcome to my personal GitHub Pages website!
+<h1>Hi, I'm Dillon</h1>
 
-<img width="200" height="300" alt="dillonmiller" src="https://github.com/user-attachments/assets/359e4ee2-7791-4d28-b839-48d29b7a3fe5" />
+<p>Welcome to my personal GitHub Pages website!</p>
+
+<img width="200" height="300" 
+     alt="dillonmiller" 
+     src="https://github.com/user-attachments/assets/359e4ee2-7791-4d28-b839-48d29b7a3fe5" />
+
+</div>
+
 
 ## About Me
 
